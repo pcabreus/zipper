@@ -1,14 +1,15 @@
 {
     "name": "pcabreus-utils/zipper",
     "type": "library",
-    "description": "trait entities",
+    "description": "zipper utils",
     "keywords": [
-        "entity",
-        "trait",
+        "zip",
+        "zipper",
+        "compress",
         "positibe",
         "positibelabs"
     ],
-    "homepage": "https://github.com/pcabreus/EntityTraits",
+    "homepage": "https://github.com/pcabreus/Zipper",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
