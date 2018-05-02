@@ -1,0 +1,36 @@
+{
+    "name": "pcabreus-utils/zipper",
+    "type": "library",
+    "description": "trait entities",
+    "keywords": [
+        "entity",
+        "trait",
+        "positibe",
+        "positibelabs"
+    ],
+    "homepage": "https://github.com/pcabreus/EntityTraits",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Pedro Carlos Abreu Jiménez",
+            "email": "pcabreus@gmail.com",
+            "homepage": "https://github.com/pcabreus"
+        },
+        {
+            "name": "PositibeLabs",
+            "homepage": "http://www.positibelabs.com"
+        }
+    ],
+    "require": {
+        "ext-zip": "*"
+    },
+    "autoload": {
+        "psr-4": {"Pcabreus\\Utils\\Entity\\": ""}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
